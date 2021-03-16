@@ -1,0 +1,6 @@
+.add-restaurant {
+  display: flex;
+}
+.add-restaurant * {
+  margin: 0 5px;
+}
