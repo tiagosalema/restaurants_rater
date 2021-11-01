@@ -1,6 +1,6 @@
 Howdy! 👋
 
-This is a small PERL project where you can add restaurants to be rated. Once they've been added, you can add reviews to them.
+This is a small PERN project where you can add restaurants to be rated. Once they've been added, you can add reviews to them.
 
 This has been my first project using PostgreSQL and the point in doing it was to try and see how easy it is to use it (instead of the usual MongoDB). Seems to be fun and easy to implement. Will definitely give it another go in a future project (hopefully more elaborate than this one).
 
